@@ -1,0 +1,1085 @@
+#EXTM3U
+#EXTINF:-1 group-title="J2，http：//198.16.64.10：8278/j2_twn/playlist.m3u8？tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70",J2
+https://pull-l3-cny.douyincdn.com/live/e32c9af787d1f0347d306886c0f58359.m3u8
+#EXTINF:-1 group-title="J2，http：//198.16.64.10：8278/j2_twn/playlist.m3u8？tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70",J2
+http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+#EXTINF:-1 group-title="J2，http：//198.16.64.10：8278/j2_twn/playlist.m3u8？tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70",J2
+http://120.84.96.196:808/hls/86/index.m3u8
+#EXTINF:-1 group-title="J2，http：//198.16.64.10：8278/j2_twn/playlist.m3u8？tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70",J2
+http://120.84.96.211:808/hls/86/index.m3u8
+#EXTINF:-1 group-title="星卫电影台，http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2",龙祥时代
+http://120.84.96.53:808/hls/35/index.m3u8
+#EXTINF:-1 group-title="星卫电影台，http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2",龙祥时代
+http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
+#EXTINF:-1 group-title="星卫电影台，http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2",龙华电影
+http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+#EXTINF:-1 group-title="星卫电影台，http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2",龙华偶像
+http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+#EXTINF:-1 group-title="星卫电影台，http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2",龙华偶像
+http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
+#EXTINF:-1 group-title="星卫电影台，http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2",龙华卡通
+http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
+#EXTINF:-1 group-title="星卫电影台，http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2",龙华戏剧
+http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+#EXTINF:-1 group-title="星卫电影台，http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2",龙华洋片
+http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+#EXTINF:-1 group-title="星卫电影台，http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2",靖天国际台
+http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+#EXTINF:-1 group-title="星卫电影台，http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2",靖天资讯台
+http://198.16.64.10:8278/jingtianinfo_twn/playlist.m3u8?tid=MBBB4193573341935733&ct=19226&tsum=a90c32c7e1c51e5f30cff8add7dbea68
+#EXTINF:-1 group-title="星卫电影台，http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2",靖天卡通台
+http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
+#EXTINF:-1 group-title="星卫电影台，http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2",靖天卡通台
+http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+#EXTINF:-1 group-title="星卫电影台，http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2",亚洲旅游台
+http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",HBO HD
+http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",HBO
+http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",好莱坞电影
+http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",爱尔达影剧台
+http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",爱尔达影剧台
+http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",美亚电影台
+http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",探索亚洲
+http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",探索动力
+http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",探索科学
+http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",探索频道
+http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",国家地理
+http://198.16.64.10:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",美食星球
+http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",动物星球
+http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",BBC Earth
+http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",Baby TV
+http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C6892759268927592&ct=19225&tsum=c523d815f0353c10a5d528226ebb5779
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",Baby TV
+http://198.16.64.10:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&tsum=416f2cc4b72f4963317f557858cdbd02
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",CN卡通頻道
+http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",CINEMAX
+http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",AXN
+http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",华语电视
+http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",华语电视
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",华语电视
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",长城精品
+http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",JET综合
+http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",JET综合
+http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",TLC
+http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",海豚综合台
+http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",美丽人生
+http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",时尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",中台湾生活网
+http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",原住民电视台
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="MTV，http：//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8",原住民电视台
+https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV5
+http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV5
+http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV5
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226259/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV5
+http://117.169.121.162:6610/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV5+
+http://117.169.121.162:6610/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV5+
+http://117.169.121.162:6610/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV5+
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV5+
+http://39.134.32.103:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV6
+http://39.134.32.102:6610/270000001111/1110000307/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV6
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV6
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV6
+http://117.169.121.162:6610/PLTV/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV6
+http://117.169.121.162:6610/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV7
+http://117.169.121.162:6610/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV7
+http://117.169.121.162:6610/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV7
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV7
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV7
+http://125.40.191.58:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV7
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV8
+http://125.40.191.58:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV8
+http://117.169.121.162:6610/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV8
+http://117.169.121.162:6610/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV9
+http://117.169.121.162:6610/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV9
+http://117.169.121.162:6610/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV9
+http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV9
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV10
+http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV10
+http://117.169.121.162:6610/PLTV/88888910/224/3221225627/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV10
+http://117.169.121.162:6610/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV11
+http://117.169.121.162:6610/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV11
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV11
+http://39.135.138.60:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV12
+http://39.135.138.58:18890/TVOD/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV12
+http://117.169.121.162:6610/PLTV/88888910/224/3221225629/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV12
+http://117.169.121.162:6610/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV13
+http://117.169.121.162:6610/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV13
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV13
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV13
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV13
+http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV14
+http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV14
+http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV14
+http://117.169.121.162:6610/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV14
+http://117.169.121.162:6610/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV15
+http://117.169.121.162:6610/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV15
+http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="CCTV5，http：//111.29.9.37：6610/000000001000/1000000005000025222/index.m3u8？stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222",CCTV15
+http://182.151.211.171:808/hls/15/index.m3u8
+#EXTINF:-1 group-title="CCTV2，http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8",CCTV3
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+#EXTINF:-1 group-title="CCTV2，http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8",CCTV4
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="CCTV2，http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8",CCTV5
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="CCTV2，http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8",CCTV5+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+#EXTINF:-1 group-title="CCTV2，http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8",CCTV6
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1 group-title="CCTV2，http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8",CCTV7
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 group-title="CCTV2，http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8",CCTV8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="CCTV2，http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8",CCTV9
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="湖南卫视，http://117.169.121.162:6610/PLTV/88888910/224/3221225745/index.m3u8",湖南卫视
+http://117.169.121.162:6610/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 group-title="湖南卫视，http://117.169.121.162:6610/PLTV/88888910/224/3221225745/index.m3u8",湖南卫视
+http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 group-title="湖南卫视，http://117.169.121.162:6610/PLTV/88888910/224/3221225745/index.m3u8",湖南卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
+#EXTINF:-1 group-title="湖南卫视，http://117.169.121.162:6610/PLTV/88888910/224/3221225745/index.m3u8",浙江卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8
+#EXTINF:-1 group-title="湖南卫视，http://117.169.121.162:6610/PLTV/88888910/224/3221225745/index.m3u8",浙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV1
+http://[2409:8087:6a01:1020::e]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226290/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV1
+http://[2409:8087:6a01:1020::a]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV1
+http://[2409:8087:6a01:1020::10]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV2
+http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV2
+http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226282/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV2
+http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV2
+http://[2409:8087:6a01:1020::b]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226282/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV2
+http://[2409:8087:6a01:1020::b]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV2
+http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV2
+http://[2409:8087:6a01:1020::e]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV2
+http://[2409:8087:6a01:1020::a]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226282/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV2
+http://[2409:8087:6a01:1020::a]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV2
+http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226282/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV2
+http://[2409:8087:6a01:1020::10]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV3
+http://[2409:8087:6a01:1020::b]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226263/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV3
+http://[2409:8087:6a01:1020::a]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV3
+http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226263/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV3
+http://[2409:8087:6a01:1020::a]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226263/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV3
+http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226263/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV3
+http://[2409:8087:6a01:1020::e]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV3
+http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV3
+http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：6a01：1020：：f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8？fmt=ts2hls",CCTV3
+http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV7
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV7
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225795/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV9
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV9
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV10
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV10
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV11
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV11
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV12
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV12
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV13
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV13
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV14
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV14
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV15
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV15
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV16
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV16
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV17
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV17
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV1
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000027984/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV1
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV1
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001016000000368404/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV1
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV1
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000000002000000027984/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV6，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225814/index.m3u8",CCTV1
+http://[2409:8087:5011:1020::1b]/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV4
+http://[2409:8087:5011:1020::2a]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV4
+http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV4
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV4
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000000002000000028006/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV4
+http://[2409:8087:5011:1020::1c]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV4
+http://[2409:8087:5011:1020::2c]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV4
+http://[2409:8087:5011:1020::1b]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV4
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV4
+http://[2409:8087:5011:1020::1e]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV5
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000000002000000028007/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV5
+http://[2409:8087:5011:1020::1b]/180000001001/00000001000000001001000000000053/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV5
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001001000000000053/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV5
+http://[2409:8087:5011:1020::2c]/180000001001/00000001000000001001000000000053/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV5
+http://[2409:8087:5011:1020::1e]/180000001001/00000001000000001001000000000053/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV4，http：//[2409：8087：5011：1020：：1f]/180000001001/00000001000000000002000000028006/main.m3u8？IASHttpSessionId=OTT",CCTV5
+http://[2409:8087:5011:1020::1c]/180000001001/00000001000000001001000000000053/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226759/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226979/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227171/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227197/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225977/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3178364233_-950038637/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226179/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227197/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227171/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221225977/index.m3u8?from=21
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227001/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3605758820_-2143308693/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226179/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3605758820_-2143308693/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226179/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3821303500_-921252786/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226759/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226920/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227001/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3669132437_-1850260639/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226759/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227197/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3669132437_-1850260639/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3605758820_-2143308693/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226759/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227171/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3178364233_-950038637/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+#EXTINF:-1 group-title="CCTV1，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",CCTV1
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3605758820_-2143308693/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227197/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV5+
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV5+
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3669132437_-1850260639/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226745/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV5+
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226745/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV5+
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3605758820_-2143308693/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226745/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV5+
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3605758820_-2143308693/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV5+
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226910/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV5+
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV5+
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV5+
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226745/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV5+
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226910/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV5+
+http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226745/index.m3u8?from=21
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV5+
+http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8?from=21
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV5+
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3178364233_-950038637/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV5+
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226910/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV6
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227099/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV6
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV6
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV6
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV6
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3178364233_-950038637/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV6
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227099/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV6
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV6
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3605758820_-2143308693/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV6
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227099/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV7
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226175/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV7
+http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226175/index.m3u8?from=21
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV7
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226175/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV7
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226175/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV7
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226175/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV7
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3178364233_-950038637/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226175/index.m3u8
+#EXTINF:-1 group-title="CCTV5+，http：//[2409：8087：1414：22：：112d]/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",CCTV7
+http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226907/index.m3u8?from=21
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CGTN俄语
+http://[2409:8087:1020:301:2026::19]:80/wh7f454c46tw4204605914_-1018338776/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225976/10000100000000060000000000890984_0.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CGTN法语
+http://[2409:8087:1070:301:2028::11]:80/wh7f454c46tw4204049046_649004065/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225974/10000100000000060000000000890992_0.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CGTN西语
+http://[2409:8087:1070:301:2028::11]:80/wh7f454c46tw4203756403_1912599397/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225973/10000100000000060000000000890993_0.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CGTN英语
+http://[2409:8087:1020:301:2026::15]:80/wh7f454c46tw4119802051_438147111/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225727/10000100000000060000000000000764_0.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CGTN阿语
+http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CGTN俄语
+http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225976/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CGTN法语
+http://[2409:8087:1070:301:2028::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225974/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CGTN纪录
+http://[2409:8087:1020:301:2026::2d]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225728/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CGTN纪录
+http://[2409:8087:1070:301:2028::21]:80/wh7f454c46tw4203473864_1528765209/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225972/10000100000000060000000000890994_0.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CGTN纪录
+http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225972/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CGTN西语
+http://[2409:8087:1070:301:2028::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225973/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CCTV1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CCTV1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CCTV2
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="CGTN阿语，http：//[2409：8087：1050：301：2026：：17]：80/wh7f454c46tw4204330770_1478704105/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/10000100000000060000000000890985_0.smil/01.m3u8？fmt=ts2hls",CCTV2
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="CETV4，http：//[2409：8087：3428：20：500：：100f]：6610/PLTV/88888888/224/3221227192/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CGTN
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227238/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="CETV4，http：//[2409：8087：3428：20：500：：100f]：6610/PLTV/88888888/224/3221227192/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CGTN
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226980/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="CETV4，http：//[2409：8087：3428：20：500：：100f]：6610/PLTV/88888888/224/3221227192/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CGTN
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225822/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="CCTV13，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225817/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CCTV13
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226985/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="CCTV13，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225817/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CCTV14
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225933/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="CCTV13，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225817/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CCTV14
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225819/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="CCTV13，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225817/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CCTV14
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227086/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="CCTV13，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225817/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CCTV15
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226989/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="CCTV13，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225817/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CCTV15
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227270/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="CCTV13，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225817/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CCTV15
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225818/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="CCTV13，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225817/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CCTV16
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227125/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="CCTV13，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225817/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CCTV16
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="CCTV13，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225817/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CCTV16
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227148/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="CCTV13，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225817/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CCTV17
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="CCTV13，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225817/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",CCTV17
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226986/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="湖北卫视，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225975/index.m3u8",湖北卫视
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226015/index.m3u8
+#EXTINF:-1 group-title="湖北卫视，http：//[2409：8087：1a01：df：：4077]/PLTV/88888888/224/3221225975/index.m3u8",海南卫视
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225978/index.m3u8
+#EXTINF:-1 group-title="山东卫视，http：//[2409：8087：3869：8021：1001：：e5]：6610/PLTV/88888888/224/3221225738/2/index.m3u8",天津卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225485/2/index.m3u8
+#EXTINF:-1 group-title="湖南卫视，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227232/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",湖南卫视
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226851/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="湖南卫视，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227232/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",吉林卫视
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227099/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="湖南卫视，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227232/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",吉林卫视
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225851/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="湖南卫视，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227232/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",江苏卫视
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227160/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="湖南卫视，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227232/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",江苏卫视
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225847/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="湖南卫视，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227232/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",江西卫视
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225834/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="湖南卫视，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227232/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",江西卫视
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227209/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="湖南卫视，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227232/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",康巴卫视
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225856/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="河南卫视，http：//[2409：8087：4400：20：1：a0f：11：9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8",新疆卫视
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226657/index.m3u8
+#EXTINF:-1 group-title="河南卫视，http：//[2409：8087：4400：20：1：a0f：11：9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8",湖南卫视
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226659/index.m3u8
+#EXTINF:-1 group-title="河南卫视，http：//[2409：8087：4400：20：1：a0f：11：9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8",云南卫视
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8
+#EXTINF:-1 group-title="河南卫视，http：//[2409：8087：4400：20：1：a0f：11：9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8",重庆卫视
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
+#EXTINF:-1 group-title="超级体育，http：//[2409：8087：3869：8021：1001：：e5]：6610/PLTV/88888888/224/3221225767/2/index.m3u8",超级电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
+#EXTINF:-1 group-title="超级体育，http：//[2409：8087：3869：8021：1001：：e5]：6610/PLTV/88888888/224/3221225767/2/index.m3u8",超级电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225766/2/index.m3u8
+#EXTINF:-1 group-title="超级体育，http：//[2409：8087：3869：8021：1001：：e5]：6610/PLTV/88888888/224/3221225767/2/index.m3u8",超级电视剧
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225625/2/index.m3u8
+#EXTINF:-1 group-title="超级体育，http：//[2409：8087：3869：8021：1001：：e5]：6610/PLTV/88888888/224/3221225767/2/index.m3u8",超级电视剧
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225765/2/index.m3u8
+#EXTINF:-1 group-title="超级体育，http：//[2409：8087：3869：8021：1001：：e5]：6610/PLTV/88888888/224/3221225767/2/index.m3u8",武博世界
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225656/2/index.m3u8
+#EXTINF:-1 group-title="超级体育，http：//[2409：8087：3869：8021：1001：：e5]：6610/PLTV/88888888/224/3221225767/2/index.m3u8",中国功夫
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225660/2/index.m3u8
+#EXTINF:-1 group-title="超级体育，http：//[2409：8087：3869：8021：1001：：e5]：6610/PLTV/88888888/224/3221225767/2/index.m3u8",军旅剧场
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225669/2/index.m3u8
+#EXTINF:-1 group-title="超级体育，http：//[2409：8087：3869：8021：1001：：e5]：6610/PLTV/88888888/224/3221225767/2/index.m3u8",黑莓动画
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225672/2/index.m3u8
+#EXTINF:-1 group-title="卡酷少儿，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225871/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",卡酷少儿
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226963/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="卡酷少儿，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225871/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",快乐垂钓
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226940/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="卡酷少儿，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225871/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",快乐垂钓
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227028/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="卡酷少儿，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225871/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",联众
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227041/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="卡酷少儿，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225871/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",龙岩综合
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227200/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="卡酷少儿，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221225871/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",咪咕
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",体育
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227040/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",体育赛事
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",武博世界
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225895/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",熊猫
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226715/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",炫舞未来
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226699/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",怡伴健康
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225883/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",优漫卡通
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225874/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",游戏风云
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227075/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",漳州
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227169/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",中国功夫
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225896/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",中国经济
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226987/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",中国天气
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",中国功夫
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225896/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",中国经济
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226987/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",中国天气
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1&IASHttpS
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",新密新闻频道
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",河南公共频道
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/index.m3u8
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",体育赛事
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226567/index.m3u8
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",生活时尚
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",南阳
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226575/index.m3u8
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",河南乡村频道
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226576/index.m3u8
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",新郑1综合
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226577/index.m3u8
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",清丰电视台
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226580/index.m3u8
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",河南调解剧场
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
+#EXTINF:-1 group-title="生活时尚，http：//[2409：8087：3428：20：500：：1009]：6610/PLTV/88888888/224/3221227091/index.m3u8？servicetype=1&IASHttpSessionId=RR423820220409134714119178",周口新闻综合
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
+#EXTINF:-1 group-title="埋堆堆63，http：//121.51.249.6/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8",埋堆堆64
+http://121.51.249.6/txdirect.hls.huya.com/src/1199563551865-1199563551865-5444628168809906176-2399127227186-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="埋堆堆63，http：//121.51.249.6/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8",埋堆堆65
+http://121.51.249.6/txdirect.hls.huya.com/src/1199561240111-1199561240111-5434699260983508992-2399122603678-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="埋堆堆63，http：//121.51.249.6/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8",埋堆堆66
+http://121.51.249.6/txdirect.hls.huya.com/src/1199561152145-1199561152145-5434321449890349056-2399122427746-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="埋堆堆63，http：//121.51.249.6/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8",埋堆堆67
+http://121.51.249.6/txdirect.hls.huya.com/src/1199563452337-1199563452337-5444200699304869888-2399127028130-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="埋堆堆63，http：//121.51.249.6/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8",埋堆堆68
+http://121.51.249.6/txdirect.hls.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="埋堆堆63，http：//121.51.249.6/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8",埋堆堆69
+http://121.51.249.6/txdirect.hls.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="埋堆堆63，http：//121.51.249.6/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8",埋堆堆70
+http://121.51.249.6/txdirect.hls.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="埋堆堆63，http：//121.51.249.6/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8",埋堆堆71
+http://121.51.249.6/txdirect.hls.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="埋堆堆63，http：//121.51.249.6/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8",埋堆堆73
+http://121.51.249.6/txdirect.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="埋堆堆63，http：//121.51.249.6/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8",埋堆堆74
+http://121.51.249.6/txdirect.hls.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="??  虎牙,#genre#",周星驰-粤语
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",周星驰
+http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",吴孟达
+http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",林正英
+http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",沈腾
+http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",甄子丹
+http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",成龙
+http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",李连杰
+http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",周润发
+http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",刘德华
+http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",洪金宝
+http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",吴京
+http://txtest-xp2p.p2p.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",黄渤
+http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",刘家辉
+http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",咏春系列
+http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",黑帮系列
+http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",古墓系列
+http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",赛车系列
+http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",警匪系列
+http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",中国功夫
+http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",喜剧系列
+http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",动作大片
+http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",玄幻系列
+http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",古装武侠
+http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",香港女神系列
+http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",王晶导演
+http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",历年贺岁大片
+http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",金庸武侠系列
+http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",逗乐小品
+http://txtest-xp2p.p2p.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",笑傲帮
+http://txtest-xp2p.p2p.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",死神来了系列
+http://txtest-xp2p.p2p.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",猫和老鼠
+http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",成龍歷險記 
+http://txtest-xp2p.p2p.huya.com/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",路飛海盜 
+http://txtest-xp2p.p2p.huya.com/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",爆笑蟲子 
+http://txtest-xp2p.p2p.huya.com/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",欧美影院
+http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1_2000.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",动作大片
+http://txtest-xp2p.p2p.huya.com/src/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1_2000.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",历年贺岁档
+http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",香港贺岁片爆笑
+http://txtest-xp2p.p2p.huya.com/src/1099531752755-1099531752755-86436126637686784-2199063628966-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",飞车电影
+http://txtest-xp2p.p2p.huya.com/src/1099531752751-1099531752751-86436109457817600-2199063628958-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",西片电影
+http://txtest-xp2p.p2p.huya.com/src/1423782054-1423782054-6115097358561705984-2847687564-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",西片影院
+http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",杰森斯坦森
+http://txtest-xp2p.p2p.huya.com/src/1099531752779-1099531752779-86436229716901888-2199063629014-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",高智商犯罪
+http://txtest-xp2p.p2p.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",高智商影院
+http://txtest-xp2p.p2p.huya.com/src/1099531752782-1099531752782-86436242601803776-2199063629020-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",欧美经典
+http://txtest-xp2p.p2p.huya.com/src/1423787819-1423787819-6115122119048167424-2847699094-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",卧底警察
+http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",灾难大片
+http://txtest-xp2p.p2p.huya.com/src/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",反串经典
+http://txtest-xp2p.p2p.huya.com/src/1449698705-1449698705-6226408527028551680-3049003156-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",异型怪兽
+http://txtest-xp2p.p2p.huya.com/src/1099531752770-1099531752770-86436191062196224-2199063628996-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",科幻硬核
+http://txtest-xp2p.p2p.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",生化危机
+http://txtest-xp2p.p2p.huya.com/src/1099531752748-1099531752748-86436096572915712-2199063628952-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",国外赛车
+http://txtest-xp2p.p2p.huya.com/src/1423782054-1423782054-6115097358561705984-2847687564-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",警匪犯罪
+http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",黑帮争斗
+http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙音乐
+http://txtest-xp2p.p2p.huya.com/src/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙娱乐
+http://txtest-xp2p.p2p.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-陈佩斯
+http://txtest-xp2p.p2p.huya.com/src/1524418065-1524418065-6547325734606602240-3048959586-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-周星驰1
+http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-周星驰2
+http://txtest-xp2p.p2p.huya.com/src/1449698986-1449698986-6226409733914361856-2847687634-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-达叔
+http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",邱淑贞王祖贤张曼玉
+http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-李连杰
+http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-刘德华
+http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-成龙经典
+http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-甄子丹
+http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-古天乐
+http://txtest-xp2p.p2p.huya.com/src/1524434083-1524434083-6547394531392749568-3048991622-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-吴京
+http://txtest-xp2p.p2p.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-周润发
+http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-李连杰
+http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-许冠英
+http://txtest-xp2p.p2p.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-成奎安
+http://txtest-xp2p.p2p.huya.com/src/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-李小龙
+http://txtest-xp2p.p2p.huya.com/src/1449580415-1449580415-6225900475347107840-2847699190-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-张国荣
+http://txtest-xp2p.p2p.huya.com/src/1423782037-1423782037-6115097285547261952-2847687530-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-徐峥合集
+http://txtest-xp2p.p2p.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-许氏三杰
+http://txtest-xp2p.p2p.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-金庸经典剧
+http://txtest-xp2p.p2p.huya.com/src/1524439846-1524439846-6547419283289276416-3049003148-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-金庸的武侠世界
+http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-大片连连看
+http://txtest-xp2p.p2p.huya.com/src/1099531752757-1099531752757-86436135227621376-2199063628970-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-武僧电影
+http://txtest-xp2p.p2p.huya.com/src/1524434107-1524434107-6547394634471964672-3048991670-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-古墓系列
+http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-恐怖片
+http://txtest-xp2p.p2p.huya.com/src/1449698763-1449698763-6226408776136654848-2847699120-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-玄幻专场
+http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-武侠动作
+http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-刺激枪战
+http://txtest-xp2p.p2p.huya.com/src/28302995-28302995-121560437903851520-3048959616-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-国产悬疑
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-爱情恋爱片
+http://txtest-xp2p.p2p.huya.com/src/1423782077-1423782077-6115097457345953792-2847687610-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙1轮播
+http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙2轮播
+http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙3轮播
+http://txtest-xp2p.p2p.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙4轮播
+http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙5轮播
+http://txtest-xp2p.p2p.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙6轮播
+http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙7轮播
+http://txtest-xp2p.p2p.huya.com/src/1449567112-1449567112-6225843339397169152-2847687536-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-金庸群侠篇电影
+http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-喜剧专场
+http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-荒野求生贝爷
+http://txtest-xp2p.p2p.huya.com/src/1199528334171-1199528334171-5293369324839370752-2399056791798-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-爆笑大片
+http://txtest-xp2p.p2p.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-国产动作大片
+http://txtest-xp2p.p2p.huya.com/src/1423782021-1423782021-6115097216827785216-2847687498-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-罪犯大片1
+http://txtest-xp2p.p2p.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-罪犯大片2
+http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-历年贺岁档
+http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-喜剧专场1
+http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-喜剧专场2
+http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-林正英1
+http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-沈腾合集
+http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-吴京1
+http://txtest-xp2p.p2p.huya.com/src/1099531752759-1099531752759-86436143817555968-2199063628974-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-王祖蓝
+http://txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-冷门港片大全
+http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-精彩古装轮播
+http://txtest-xp2p.p2p.huya.com/src/1524434091-1524434091-6547394565752487936-3048991638-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-警匪犯罪
+http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-经典华语片场
+http://txtest-xp2p.p2p.huya.com/src/1199572377389-1199572377389-5482533505759969280-2399144878234-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-搞笑恐怖类
+http://txtest-xp2p.p2p.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-铁齿铜牙纪晓岚
+http://txtest-xp2p.p2p.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-贺岁片
+http://txtest-xp2p.p2p.huya.com/src/1099531752755-1099531752755-86436126637686784-2199063628966-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-爆笑喜剧
+http://txtest-xp2p.p2p.huya.com/src/1423782056-1423782056-6115097367151640576-2847687568-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-五福星
+http://txtest-xp2p.p2p.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-搞笑喜剧1
+http://txtest-xp2p.p2p.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-搞笑喜剧2
+http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-喜剧合家欢
+http://txtest-xp2p.p2p.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-笑傲江湖
+http://txtest-xp2p.p2p.huya.com/src/1423787824-1423787824-6115122140523003904-2847699104-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎牙-逗乐小品
+http://txtest-xp2p.p2p.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎 牙|春晚小品
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777038134-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎 牙|笑傲帮
+http://txtest-xp2p.p2p.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  虎牙,#genre#",虎 牙|乡村爱情
+http://txtest-xp2p.p2p.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.xs
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱动漫
+http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=wasusyt&Contentid=6000000006000280630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱奇谈
+http://111.11.123.28:6610/000000001000/6000000006000270630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221014133013296225&channel-id=wasusyt&Contentid=6000000006000270630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱奇谈
+http://111.11.123.28:6610/000000001000/6000000006000270630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959120221014133234310230&channel-id=wasusyt&Contentid=6000000006000270630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱赛车
+http://111.11.123.28:6610/000000001000/6000000006000240630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959220221014133355305703&channel-id=wasusyt&Contentid=6000000006000240630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱赛车
+http://111.11.123.28:6610/000000001000/6000000006000240630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958720221014133355301960&channel-id=wasusyt&Contentid=6000000006000240630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱电竞
+http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961420221014133349297209&channel-id=wasusyt&Contentid=6000000006000230630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱电竞
+http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958720221014133348301959&channel-id=wasusyt&Contentid=6000000006000230630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱玩具
+http://111.11.123.28:6610/000000001000/6000000006000220630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014133340294427&channel-id=wasusyt&Contentid=6000000006000220630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱悬疑
+http://111.11.123.31:6610/000000001000/6000000006000050630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1891220221014135811192524&channel-id=wasusyt&Contentid=6000000006000050630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱悬疑
+http://111.11.123.31:6610/000000001000/6000000006000050630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1892920221014135811182497&channel-id=wasusyt&Contentid=6000000006000050630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱悬疑
+http://111.11.123.28:6610/000000001000/6000000006000050630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959220221014135806305779&channel-id=wasusyt&Contentid=6000000006000050630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱悬疑
+http://111.11.123.28:6610/000000001000/6000000006000050630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958620221014135806302371&channel-id=wasusyt&Contentid=6000000006000050630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱猎奇
+http://111.11.123.28:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221014135801301517&channel-id=wasusyt&Contentid=6000000006000190630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱猎奇
+http://111.11.123.28:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961020221014135801297426&channel-id=wasusyt&Contentid=6000000006000190630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱猎奇
+http://111.11.123.28:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959720221014135754286358&channel-id=wasusyt&Contentid=6000000006000190630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱猎奇
+http://111.11.123.28:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221014135754301515&channel-id=wasusyt&Contentid=6000000006000190630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱幼教
+http://111.11.123.28:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014135750294528&channel-id=wasusyt&Contentid=6000000006000180630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱幼教
+http://111.11.123.28:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221014135750301514&channel-id=wasusyt&Contentid=6000000006000180630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱幼教
+http://111.11.123.28:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957220221014135745294013&channel-id=wasusyt&Contentid=6000000006000180630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱谍战
+http://111.11.123.28:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958420221015131206309318&channel-id=wasusyt&Contentid=6000000006000070630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱谍战
+http://111.11.123.28:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959820221015131206302227&channel-id=wasusyt&Contentid=6000000006000070630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱谍战
+http://111.11.123.28:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221015131152299181&channel-id=wasusyt&Contentid=6000000006000070630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱家庭
+http://111.11.123.28:6610/000000001000/6000000006000090630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959820221015131414302251&channel-id=wasusyt&Contentid=6000000006000090630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱家庭
+http://111.11.123.28:6610/000000001000/6000000006000090630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1956620221015131414319445&channel-id=wasusyt&Contentid=6000000006000090630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱家庭
+http://111.11.123.28:6610/000000001000/6000000006000090630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961220221015131340309385&channel-id=wasusyt&Contentid=6000000006000090630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱解密
+http://111.11.123.28:6610/000000001000/6000000006000200630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960720221014135726306339&channel-id=wasusyt&Contentid=6000000006000200630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱解密
+http://111.11.123.28:6610/000000001000/6000000006000200630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959120221014135725310312&channel-id=wasusyt&Contentid=6000000006000200630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱解密
+http://111.11.123.28:6610/000000001000/6000000006000200630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960620221014135721303915&channel-id=wasusyt&Contentid=6000000006000200630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱旅行
+http://111.11.123.28:6610/000000001000/6000000006000250630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960020221014135646305380&channel-id=wasusyt&Contentid=6000000006000250630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱怀旧
+http://111.11.123.28:6610/000000001000/6000000006000260630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959820221014135640297861&channel-id=wasusyt&Contentid=6000000006000260630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱体育
+http://111.11.123.31:6610/000000001000/6000000006000290630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1889520221014135601185158&channel-id=wasusyt&Contentid=6000000006000290630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱体育
+http://111.11.123.31:6610/000000001000/6000000006000290630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1890420221014135601179073&channel-id=wasusyt&Contentid=6000000006000290630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱历史
+http://111.11.123.28:6610/000000001000/6000000006000150630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957720221014140909304245&channel-id=wasusyt&Contentid=6000000006000150630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱喜剧
+http://111.11.123.28:6610/000000001000/6000000006000010630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959220221014141111305853&channel-id=wasusyt&Contentid=6000000006000010630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱喜剧
+http://111.11.123.28:6610/000000001000/6000000006000010630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958820221014141111289135&channel-id=wasusyt&Contentid=6000000006000010630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱美食
+http://111.11.123.28:6610/000000001000/6000000006000120630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957320221014141056297085&channel-id=wasusyt&Contentid=6000000006000120630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱科学
+http://111.11.123.28:6610/000000001000/6000000006000160630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959620221014141038314650&channel-id=wasusyt&Contentid=6000000006000160630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱都市
+http://111.11.123.28:6610/000000001000/6000000006000080630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014141030294619&channel-id=wasusyt&Contentid=6000000006000080630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱经典
+http://111.11.123.28:6610/000000001000/6000000006000060630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957220221014141024294069&channel-id=wasusyt&Contentid=6000000006000060630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱经典
+http://111.11.123.28:6610/000000001000/6000000006000060630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960620221014141024303998&channel-id=wasusyt&Contentid=6000000006000060630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱历史
+http://111.11.123.28:6610/000000001000/6000000006000150630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959120221014141019310378&channel-id=wasusyt&Contentid=6000000006000150630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱青春
+http://111.11.123.28:6610/000000001000/6000000006000100630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1956720221014141458304245&channel-id=wasusyt&Contentid=6000000006000100630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱青春
+http://111.11.123.28:6610/000000001000/6000000006000100630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960220221014141458302585&channel-id=wasusyt&Contentid=6000000006000100630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱探索
+http://111.11.123.28:6610/000000001000/6000000006000300630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960920221014141449279879&channel-id=wasusyt&Contentid=6000000006000300630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱谍战
+http://111.11.123.28:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960720221014141442306403&channel-id=wasusyt&Contentid=6000000006000070630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱科幻
+http://111.11.123.28:6610/000000001000/6000000006000020630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958220221014141436296807&channel-id=wasusyt&Contentid=6000000006000020630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱院线
+http://111.11.123.31:6610/000000001000/6000000006000030630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1888520221014141430188219&channel-id=wasusyt&Contentid=6000000006000030630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱院线
+http://111.11.123.28:6610/000000001000/6000000006000030630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960320221014141424292715&channel-id=wasusyt&Contentid=6000000006000030630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱世界
+http://111.11.123.28:6610/000000001000/6000000006000210630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960420221015130011307610&channel-id=wasusyt&Contentid=6000000006000210630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱世界
+http://111.11.123.28:6610/000000001000/6000000006000210630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960920221015130011284542&channel-id=wasusyt&Contentid=6000000006000210630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱江湖
+http://111.11.123.28:6610/000000001000/6000000006000110630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960120221015130207299754&channel-id=wasusyt&Contentid=6000000006000110630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱娱乐
+http://111.11.123.28:6610/000000001000/6000000006000130630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960820221015130348305898&channel-id=wasusyt&Contentid=6000000006000130630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱时尚
+http://111.11.123.28:6610/000000001000/6000000006000140630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221015130638311630&channel-id=wasusyt&Contentid=6000000006000140630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱时尚
+http://111.11.123.28:6610/000000001000/6000000006000140630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221015130638300743&channel-id=wasusyt&Contentid=6000000006000140630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱时尚
+http://111.11.123.28:6610/000000001000/6000000006000140630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959320221015130548311714&channel-id=wasusyt&Contentid=6000000006000140630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱动漫
+http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958020221015130801305837&channel-id=wasusyt&Contentid=6000000006000280630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱动漫
+http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1956420221015130801308674&channel-id=wasusyt&Contentid=6000000006000280630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱动漫
+http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960820221015130756305943&channel-id=wasusyt&Contentid=6000000006000280630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱浪漫
+http://111.11.123.28:6610/000000001000/6000000006000040630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960320221015130909297281&channel-id=wasusyt&Contentid=6000000006000040630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱浪漫
+http://111.11.123.28:6610/000000001000/6000000006000040630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958620221015130853306954&channel-id=wasusyt&Contentid=6000000006000040630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱浪漫
+http://111.11.123.28:6610/000000001000/6000000006000040630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221015130909306301&channel-id=wasusyt&Contentid=6000000006000040630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱科幻
+http://111.11.123.28:6610/000000001000/6000000006000020630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957220221015131047298202&channel-id=wasusyt&Contentid=6000000006000020630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱科幻
+http://111.11.123.28:6610/000000001000/6000000006000020630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959620221015131047319400&channel-id=wasusyt&Contentid=6000000006000020630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱科幻
+http://111.11.123.28:6610/000000001000/6000000006000020630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221015131038300777&channel-id=wasusyt&Contentid=6000000006000020630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱极限
+http://111.11.123.28:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958420221014135739304394&channel-id=wasusyt&Contentid=6000000006000170630
+#EXTINF:-1 group-title="??  iHOT,#genre#",爱极限
+http://111.11.123.28:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221014135734296323&channel-id=wasusyt&Contentid=6000000006000170630
+#EXTINF:-1 group-title="??  NewTV,#genre#",超级电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",超级电视剧
+http://39.135.138.58:18890/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",超级电视剧
+http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",超级体育
+http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",超级体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",超级综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",超级综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",潮妈辣婆
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",东北热剧
+http://39.135.138.58:18890/PLTV/88888888/224/3221226202/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",东北热剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",古装剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",海外剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",欢乐剧场
+http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",欢乐剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",家庭剧场
+http://111.40.196.9/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",家庭剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",金牌综艺
+http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",金牌综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",精品大剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",精品纪录
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",军旅剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",军事评论
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 group-title="??  NewTV,#genre#",明星大片
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
